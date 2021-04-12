@@ -1,0 +1,22 @@
+'''
+Created on 2021. 4. 8.
+
+@author: user
+'''
+import matplotlib.pyplot as plt
+
+def basicChart01():
+    plt.plot([10, 20, 30, 40 ,50], [30, 50, 90, 70, 80])
+    plt.show()
+
+def basicChart02():
+    plt.rc("font", family="Malgun Gothic")
+    plt.title("label을 지정해 범례 만들기")
+    
+    plt.show()
+
+def basicChart03():
+    pass
+
+if __name__ == "__main__":
+    basicChart02()

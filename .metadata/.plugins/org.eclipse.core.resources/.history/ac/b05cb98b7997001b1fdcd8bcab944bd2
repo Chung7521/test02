@@ -1,0 +1,23 @@
+'''
+Created on 2021. 4. 7.
+
+@author: user
+'''
+import numpy as np
+
+x = np.arange(4)
+print(x + 3, " - ", x % 3)
+print()
+
+print(np.add(x, 3), " - ", np.mod(x, 3))
+print()
+
+np.random.seed()
+a = np.random.randint(1, 10, 10)
+b = np.random.randint(1, 10, 10)
+print(a)
+print(b)
+print()
+
+mask = np.greater(a, b)
+print(a, " - ", b)

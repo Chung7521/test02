@@ -1,0 +1,31 @@
+'''
+Created on 2021. 4. 7.
+
+@author: user
+'''
+# 유니버셜 함수
+import numpy as np
+
+x = np.arange(4)
+print(x)
+print(x + 3, " = ", x % 3)
+print(np.add(x, 3), "--", np.mod(x, 3))
+print()
+
+np.random.seed(0)
+a = np.random.randint(1, 10, 10)
+b = np.random.randint(1, 10, 10)
+
+mask = np.greater(a, b)
+print(a, " - ", b)
+print(mask)
+print(a[mask])
+print()
+
+n1 = np.random.randint(3, 10)
+ind = np.array([[0, 3], [1, 5], [2, 9]])
+row = np.array([0, 1, 2])
+col = np.array([3, 5, 9])
+
+n1[row, col] = np.nan
+print(np.isnan(n1))

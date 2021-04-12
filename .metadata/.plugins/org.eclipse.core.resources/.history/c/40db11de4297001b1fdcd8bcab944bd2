@@ -1,0 +1,12 @@
+'''
+Created on 2021. 4. 7.
+
+@author: user
+'''
+# 유니버셜 함수
+import numpy as np
+
+x = np.arange(4)
+print(x)
+print(x + 3, " = ", x % 3)
+print(np.add(x, 3), "--", np.mod(x, 3))

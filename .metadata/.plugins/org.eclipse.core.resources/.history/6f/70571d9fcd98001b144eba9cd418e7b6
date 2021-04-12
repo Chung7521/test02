@@ -1,0 +1,7 @@
+'''
+Created on 2021. 4. 9.
+
+@author: user
+'''
+import matplotlib.pyplot as plt
+import numpy as np

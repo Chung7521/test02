@@ -1,0 +1,11 @@
+'''
+Created on 2021. 4. 7.
+
+@author: user
+'''
+import numpy as np
+
+nums1 = np.array(range(1, 11), copy=True)
+nums2 = np.array([10, 20, 30])
+print(nums1, " - ", type(nums1))
+print(nums2, " - ", type(nums2))

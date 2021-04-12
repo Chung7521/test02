@@ -1,0 +1,21 @@
+'''
+Created on 2021. 4. 7.
+
+@author: user
+'''
+import pandas as pd
+
+pop = pd.Series({"강서구": 445200, "구로구": 418700, "양천구": 466900, "관악구": 492600})
+area = pd.Series({"강서구": 3830, "구로구": 3370, "양천구": 3520, "동작구": 3280})
+states = pd.DataFrame({"population":pop, "area":area})
+print("{}\n".format(states))
+
+states.columns = ["pop", "area"]
+print("{}\n".format(states))
+
+print(states["pop"])
+print(states["pop"]["구로구"], " - ", states["pop"].values)
+print()
+
+print(pop.index, " - ", states["pop"].index)
+print(states.index)

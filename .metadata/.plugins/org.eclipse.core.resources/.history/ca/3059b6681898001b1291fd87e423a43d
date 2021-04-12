@@ -1,0 +1,23 @@
+'''
+Created on 2021. 4. 8.
+
+@author: user
+'''
+import re
+
+p = re.compile("안녕|하이")
+m = p.match("하이안녕")
+m2 = p.findall("하이안녕")
+print(m.group(), " - ", m2)
+print()
+
+s = """python.hwp
+java.json.hwp
+print.pdf
+spring_프린트.hwp
+자바스크립트.ajax.hw0
+"""
+
+p = re.compile("\w+[.]*\w+.hwp$", re.MULTILINE)
+m = p.findall(s)
+print(m)

@@ -1,0 +1,16 @@
+'''
+Created on 2021. 4. 9.
+
+@author: user
+'''
+import csv
+import matplotlib.pyplot as plt
+import numpy as np
+
+with open("temperature.csv", "r") as a:
+    
+    tem = csv.reader(a)
+    next(tem)
+    
+    list_data = [row for row in tem]
+    print(list_data)

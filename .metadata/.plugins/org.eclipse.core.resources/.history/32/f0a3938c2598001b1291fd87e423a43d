@@ -1,0 +1,10 @@
+'''
+Created on 2021. 4. 8.
+
+@author: user
+'''
+import re
+
+p = re.compile("(ABC)+")
+s = "ABCDEABDABCFABC"
+print(p.findall(s))

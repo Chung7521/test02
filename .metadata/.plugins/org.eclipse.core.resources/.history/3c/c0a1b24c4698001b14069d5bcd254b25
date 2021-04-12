@@ -1,0 +1,11 @@
+'''
+Created on 2021. 4. 8.
+
+@author: user
+'''
+import pandas as pd
+import numpy as np
+
+df = pd.DataFrame({"a":np.random.rand(5),
+                            "b":np.random.rand(5)})
+print(df)

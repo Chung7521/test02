@@ -1,0 +1,9 @@
+'''
+Created on 2021. 4. 12.
+
+@author: user
+'''
+import json
+
+with open("student.json", "rt", encoding="utf-8") as f:
+    txt = f.read()

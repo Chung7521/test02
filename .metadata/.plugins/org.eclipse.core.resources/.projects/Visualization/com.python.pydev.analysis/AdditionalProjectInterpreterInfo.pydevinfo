@@ -1,0 +1,62 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\PythonStudy\.metadata\.plugins\org.eclipse.core.resources\.projects\Visualization\com.python.pydev.analysis\v2_indexcache
+wordcloud01|1617944894894387100|C:\PythonStudy\Visualization\wordcloud01.py
+matplotlib04|1617934557789796400|C:\PythonStudy\Visualization\matplotlib04.py
+test01|1618193506679062800|C:\PythonStudy\Visualization\test01.py
+matplotlib02|1617864860924403500|C:\PythonStudy\Visualization\matplotlib02.py
+matplotlib03|1617933336852408700|C:\PythonStudy\Visualization\matplotlib03.py
+matplotlib01|1617864094311947500|C:\PythonStudy\Visualization\matplotlib01.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+5=C:\PythonStudy\Visualization\wordcloud01.py
+6=wordcloud01
+7=C:\PythonStudy\Visualization\test01.py
+12=matplotlib04
+8=test01
+3=C:\PythonStudy\Visualization\matplotlib03.py
+10=matplotlib02
+1=C:\PythonStudy\Visualization\matplotlib01.py
+4=matplotlib03
+9=C:\PythonStudy\Visualization\matplotlib02.py
+2=matplotlib01
+11=C:\PythonStudy\Visualization\matplotlib04.py
+-- END DICTIONARY
+-- START TREE 1
+31
+bas|3|basicChart02!1^13#5*18@basicChart03!1^26#5*18@basicChart01!1^8#5*18@
+cha|1|chartLineStyle!3^9#5*34@
+clo|1|cloudImagePath!5^29#5*51@
+cou|1|count!5^48#5*51@
+csv|1|csv_read!7^12#5*67@
+dat|1|date!7^18#5*67@
+hea|1|header!7^13#5*67@
+jso|1|jsonData!5^33#5*51@
+lis|1|list_data!7^5#1*67@
+max|1|max_temp!7^16#5*67@
+mes|1|message!5^36#5*51@
+min|1|min_temp!7^17#5*67@
+mul|3|multiLineChart!3^38#5*34@multiBarChart!9^15#5*82@multiSizeScatter!3^53#5*34@
+nam|1|names!9^31#5*83@
+nlp|1|nlp!5^44#5*51@
+nou|1|nouns!5^45#5*51@
+ope|1|openFileName!5^28#5*51@
+plo|2|plot_2_2!11^23#5*98@plot_2_1!11^9#5*98@
+poi|1|point_list!3^70#1*35@
+rea|1|readFile!5^31#5*51@
+sav|1|saveWordCloud!5^22#5*50@
+sca|1|scatterChart!3^32#5*34@
+sco|2|scoreBarChart!9^11#5*82@score!9^32#5*83@
+sho|1|showBarChart!5^18#5*50@
+sta|1|start_year!7^6#1*67@
+tem|1|temp!7^7#1*67@
+x|1|x!3^72#5*35@
+x_d|1|x_data!3^78#5*35@
+y|1|y!3^73#5*35@
+y_d|1|y_data!3^79#5*35@
+yea|1|year_label!7^8#1*67@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

@@ -1,0 +1,99 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\PythonStudy\.metadata\.plugins\org.eclipse.core.resources\.projects\NumpyPandas\com.python.pydev.analysis\v2_indexcache
+pandas07|1617844684353616400|C:\PythonStudy\NumpyPandas\pandas07.py
+numpy02|1617693362831220000|C:\PythonStudy\NumpyPandas\numpy02.py
+pandas03|1617773895979002400|C:\PythonStudy\NumpyPandas\pandas03.py
+numpy01|1617692675631858300|C:\PythonStudy\NumpyPandas\numpy01.py
+pandas04|1617775441811796200|C:\PythonStudy\NumpyPandas\pandas04.py
+numpy04|1617758146268780500|C:\PythonStudy\NumpyPandas\numpy04.py
+pandas05|1617776095847491700|C:\PythonStudy\NumpyPandas\pandas05.py
+numpy03|1617757615219328800|C:\PythonStudy\NumpyPandas\numpy03.py
+pandas06|1617777866501167300|C:\PythonStudy\NumpyPandas\pandas06.py
+numpy06|1617761063017066600|C:\PythonStudy\NumpyPandas\numpy06.py
+numpy05|1617760536858678400|C:\PythonStudy\NumpyPandas\numpy05.py
+pandas01|1617764812220464600|C:\PythonStudy\NumpyPandas\pandas01.py
+pandas02|1617770990790559300|C:\PythonStudy\NumpyPandas\pandas02.py
+-- END DISKCACHE
+-- START DICTIONARY
+26
+1=C:\PythonStudy\NumpyPandas\numpy05.py
+12=pandas07
+17=C:\PythonStudy\NumpyPandas\numpy01.py
+3=C:\PythonStudy\NumpyPandas\numpy03.py
+5=C:\PythonStudy\NumpyPandas\pandas02.py
+21=C:\PythonStudy\NumpyPandas\pandas04.py
+13=C:\PythonStudy\NumpyPandas\pandas06.py
+26=numpy02
+18=numpy01
+20=numpy04
+4=numpy03
+24=numpy06
+2=numpy05
+23=C:\PythonStudy\NumpyPandas\numpy06.py
+19=C:\PythonStudy\NumpyPandas\numpy04.py
+11=C:\PythonStudy\NumpyPandas\pandas07.py
+25=C:\PythonStudy\NumpyPandas\numpy02.py
+15=C:\PythonStudy\NumpyPandas\pandas01.py
+7=C:\PythonStudy\NumpyPandas\pandas03.py
+9=C:\PythonStudy\NumpyPandas\pandas05.py
+8=pandas03
+22=pandas04
+10=pandas05
+14=pandas06
+16=pandas01
+6=pandas02
+-- END DICTIONARY
+-- START TREE 1
+47
+a|1|a!1^16#1*19@
+age|2|age_mask!3^13#1*35@age!3^9#1*35@
+are|2|area!5^9#1*51@area!7^49#1*67@
+arr|3|arr3!9^22#1*83@arr!9^14#1*83@arr2!9^19#1*83@
+b|1|b!1^17#1*19@
+col|2|col!3^27#1*35@col!1^29#1*19@
+dat|1|data!3^32#1*35@
+df|1|df!11^10#1*99@
+df1|3|df1!13^11#1*115@df1!9^32#1*83@df1!11^33#1*99@
+df2|3|df2!11^45#1*99@df2!13^13#1*115@df2!9^33#1*83@
+df3|3|df3!11^55#1*99@df3!13^14#1*115@df3!9^34#1*83@
+df4|2|df4!13^19#1*115@df4!9^38#1*83@
+df5|1|df5!13^20#1*115@
+df6|1|df6!13^24#1*115@
+df7|1|df7!13^33#1*115@
+df_|1|df_mem!5^31#1*51@
+ds|1|ds!15^29#1*131@
+emp|1|empty!17^22#1*147@
+ind|2|ind!1^27#1*19@ind!3^20#1*35@
+l|1|l!19^19#1*163@
+mas|1|mask!1^19#1*19@
+mem|1|mem!5^28#1*51@
+n|1|n!19^14#1*163@
+n1|2|n1!19^9#1*163@n1!1^25#1*19@
+n2|1|n2!19^10#1*163@
+n3|1|n3!19^11#1*163@
+nor|1|norm_0!11^65#5*98@
+np_|1|np_df!7^11#1*67@
+num|6|nums1!17^9#1*147@nums2!21^14#1*179@nums1!21^10#1*179@nums2!17^10#1*147@nums!17^35#1*147@nums!23^9#1*195@
+one|1|ones!17^20#1*147@
+pop|2|pop!5^8#1*51@pop!7^48#1*67@
+r1|1|r1!25^26#1*211@
+rnd|2|rnds!25^12#1*211@rnd!25^11#1*211@
+row|2|row!1^28#1*19@row!3^26#1*35@
+s|1|s!15^15#1*131@
+s1|1|s1!15^24#1*131@
+s2|1|s2!15^26#1*131@
+se|1|se!15^8#1*131@
+ser|3|ser1!9^26#1*83@ser3!9^28#1*83@ser2!9^27#1*83@
+sta|2|states!5^10#1*51@states!7^50#1*67@
+x|4|x!25^10#1*211@x!3^23#1*35@x!9^10#1*83@x!1^9#1*19@
+x1|1|x1!25^18#1*211@
+x2|1|x2!25^19#1*211@
+x3|1|x3!25^20#1*211@
+y|1|y!9^11#1*83@
+z|1|z!9^12#1*83@
+zer|1|zeros!17^21#1*147@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

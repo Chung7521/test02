@@ -1,0 +1,11 @@
+'''
+Created on 2021. 4. 7.
+
+@author: user
+'''
+# 브로드 캐스팅 - 벡터 연산
+import numpy as np
+
+n1 = range(1, 11)
+n2 = range(11, 21)
+n3 = n1 + n2

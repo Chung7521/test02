@@ -1,0 +1,18 @@
+'''
+Created on 2021. 4. 9.
+
+@author: user
+'''
+import matplotlib.pyplot as pd
+import numpy as np
+
+def plot_2_1():
+    pass
+
+def plot_2_2():
+    pass
+
+
+if __name__ == "__main__":
+    plot_2_1()
+    #plot_2_2()

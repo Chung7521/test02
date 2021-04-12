@@ -1,0 +1,14 @@
+'''
+Created on 2021. 4. 8.
+
+@author: user
+'''
+import re
+
+p = re.compile("(빨강|초록|파랑)")
+result = p.sub("컬러", "파랑 풍선 검정색 바지 빨강 치마 초록 바지")
+print(result)
+print()
+result = p.sub("컬러", "파랑 풍선 검정색 바지 빨강 치마 초록 바지", count=1)
+print(result)
+print()

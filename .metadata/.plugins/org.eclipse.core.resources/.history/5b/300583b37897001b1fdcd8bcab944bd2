@@ -1,0 +1,9 @@
+'''
+Created on 2021. 4. 7.
+
+@author: user
+'''
+import numpy as np
+
+x = np.arange(4)
+print(x + 3, " - ", x % 3)

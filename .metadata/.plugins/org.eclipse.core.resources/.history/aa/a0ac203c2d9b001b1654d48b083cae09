@@ -1,0 +1,8 @@
+
+import matplotlib.pyplot as plt
+import csv
+
+#with는 따로 close필요 없음
+with open("seoul_temp_20201026.csv", "r") as f:
+    csv_read = csv.reader(f)
+    header = next(csv_read)
