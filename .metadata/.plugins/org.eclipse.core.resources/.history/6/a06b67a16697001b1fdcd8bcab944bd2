@@ -1,8 +1,0 @@
-'''
-Created on 2021. 4. 7.
-
-@author: user
-'''
-#데이터 합치기(결합)
-import pandas as pd
-import numpy as np
