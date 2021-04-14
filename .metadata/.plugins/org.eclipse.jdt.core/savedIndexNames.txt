@@ -1,3 +1,0 @@
-INDEX VERSION 1.131+C:\PythonStudy\.metadata\.plugins\org.eclipse.jdt.core
-3408036374.index
-479335008.index
